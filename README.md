@@ -1,7 +1,5 @@
-## Hi there 👋
+![new](https://github.com/user-attachments/assets/0f25253b-c1d4-40c4-9ffe-3997ef8a4550)## Hi there 👋
 
-
-🎓 I’m currently pursuing a **Bachelor's in Computer Science and Information Technology (BSc.CSIT)** – 7th Semester.  
-💻 I’m actively learning the **MERN Stack** and building projects to sharpen my skills.  
-🌐 I’m passionate about **Full Stack Development** and love exploring how frontend and backend come together to make awesome applications.  
-🤝 I’m open to collaboration on web development projects and learning opportunities.  
+An enthusiastic and motivated BSc.CSIT student at Asian college of Higher Studies, eager to apply knowledge in
+computer science and technology to contribute effectively in a dynamic and challenging environment. Passionate
+about problem-solving, coding , and continuous learning to develop innovative solutions. 
